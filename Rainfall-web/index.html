@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainfall Predictor - Weather Experience</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="weather-scene">
+        <canvas id="skyCanvas"></canvas>
+        <canvas id="cloudCanvas"></canvas>
+        <canvas id="rainCanvas"></canvas>
+        <canvas id="lightningCanvas"></canvas>
+        
+        <div class="particles" id="particles"></div>
+        <div class="thunder-flash" id="thunderFlash"></div>
+        
+        <div class="weather-intensity" id="weatherIntensity">
+            Weather: Calm
+        </div>
+        
+        <div class="container">
+            <header>
+                <h1>Weather Oracle</h1>
+                <p class="subtitle">Predict rainfall with atmospheric precision</p>
+            </header>
+            
+            <form id="predictionForm">
+                <div class="form-group">
+                    <label for="humidity">Humidity (%)</label>
+                    <input type="number" id="humidity" step="0.1" min="0" max="100" required placeholder="Enter humidity level">
+                </div>
+                
+                <div class="form-group">
+                    <label for="windSpeed">Wind Speed (km/h)</label>
+                    <input type="number" id="windSpeed" step="0.1" min="0" required placeholder="Enter wind speed">
+                </div>
+                
+                <div class="form-group">
+                    <label for="precipitation">Precipitation (mm)</label>
+                    <input type="number" id="precipitation" step="0.1" min="0" required placeholder="Enter precipitation">
+                </div>
+                
+                <div class="form-group">
+                    <label for="location">Location</label>
+                    <select id="location" required>
+                        <option value="">Select location...</option>
+                        <option value="New York">New York</option>
+                        <option value="Los Angeles">Los Angeles</option>
+                        <option value="Chicago">Chicago</option>
+                        <option value="Houston">Houston</option>
+                        <option value="Phoenix">Phoenix</option>
+                        <option value="Philadelphia">Philadelphia</option>
+                        <option value="San Antonio">San Antonio</option>
+                        <option value="San Diego">San Diego</option>
+                        <option value="Dallas">Dallas</option>
+                        <option value="San Jose">San Jose</option>
+                        <option value="Austin">Austin</option>
+                        <option value="Jacksonville">Jacksonville</option>
+                        <option value="Fort Worth">Fort Worth</option>
+                        <option value="Columbus">Columbus</option>
+                        <option value="Indianapolis">Indianapolis</option>
+                        <option value="Charlotte">Charlotte</option>
+                        <option value="San Francisco">San Francisco</option>
+                        <option value="Seattle">Seattle</option>
+                        <option value="Denver">Denver</option>
+                        <option value="Washington D.C.">Washington D.C.</option>
+                    </select>
+                </div>
+                
+                <button type="submit" class="predict-btn">Predict Weather</button>
+            </form>
+            
+            <div id="result" class="result"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
