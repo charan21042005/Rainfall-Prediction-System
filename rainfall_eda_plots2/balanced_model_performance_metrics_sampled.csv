@@ -1,0 +1,4 @@
+Metric,Value
+Accuracy,0.625
+Mean CV Accuracy,0.7466666666666667
+CV Std,0.1160220285597141

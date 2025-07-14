@@ -1,0 +1,2 @@
+Model,Validation Accuracy,Validation F1-Score,Holdout Accuracy,Holdout F1-Score,Mean CV Accuracy,CV Accuracy Std
+Decision Tree (Adjusted),0.9784161726706186,0.9784585284880977,0.9779753761969904,0.9779183774327258,0.9761932189209146,0.0010582692048792652

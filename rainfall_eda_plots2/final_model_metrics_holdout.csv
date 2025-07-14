@@ -1,0 +1,2 @@
+Model,Validation Accuracy,Validation F1-Score,Holdout Accuracy,Holdout F1-Score,Mean CV Accuracy,CV Accuracy Std
+"XGBoost (Regularized, Holdout)",0.9996200030399757,0.9996201203744506,0.9997264021887825,0.9997264630433952,0.9994110094035223,0.00025771498322235974
