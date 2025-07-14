@@ -1,5 +1,5 @@
 # Rainfall Prediction System
-
+deploy - Link => https://weather-oracle-frontend.onrender.com/
 ## Overview
 The "Rainfall Prediction System" is a machine learning-based project developed by the Algo Troopers team during the summer training program (June 22 - July 14, 2025) under the School of Computer Science and Engineering. This system predicts rainfall occurrence (`rain_tomorrow`: 0 for no rain, 1 for rain) using the 2024-2025 USA rainfall dataset, leveraging meteorological parameters such as `temperature`, `humidity`, `wind_speed`, `precipitation`, `cloud_cover`, and `pressure`. The project integrates a Decision Tree Classifier with 98% accuracy, a web-based interface, and a Power BI dashboard for visualization, offering real-time insights for agriculture, disaster management, and planning.
 
