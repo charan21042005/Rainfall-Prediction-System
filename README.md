@@ -103,7 +103,7 @@ The Algo Troopers followed a structured workflow to develop this project:
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute, with proper attribution.
 
 ## Acknowledgments
-The Algo Troopers extend heartfelt gratitude to our mentor, Dr. [Mentor Name], Assistant Professor at the School of Computer Science and Engineering, for expert guidance. We thank the School for providing tools, datasets, and a supportive environment. Special thanks to teammates [Teammate 1 Name], [Teammate 2 Name], [Teammate 3 Name], and [Teammate 4 Name] for their collaborative efforts. Lastly, we acknowledge our families for their encouragement.
+The Algo Troopers extend heartfelt gratitude to our mentor, Dr. Sandeep Kaur, Assistant Professor at the School of Computer Science and Engineering, for expert guidance. We thank the School for providing tools, datasets, and a supportive environment. Special thanks to teammates Karthik, Sanchit, Aarya, and Vijay for their collaborative efforts. Lastly, we acknowledge our families for their encouragement.
 
 ## Contact
 For questions or contributions, open an issue on this repository or contact Tokachichu SriCharan at [tokachichusricharan2005@gmail.com].
