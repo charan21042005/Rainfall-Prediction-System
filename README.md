@@ -29,10 +29,10 @@ Live Demo → https://weather-oracle-frontend.onrender.com/
 ## 🖥️ Screenshots
 
 ### Homepage & Prediction Form
-![App Screenshot](images/homepage.png)
+![App Screenshot](IMAGES/results.png)
 
 ### Prediction Result
-![Prediction Result](images/result.png)
+![Prediction Result](IMAGES/results2.png)
 
 
 ---
@@ -125,8 +125,8 @@ python src/app.py
 
 **Sri Charan**  
 📧 tokachichusricharan2005@gmail.com  
-🔗 GitHub: https://github.com/yourusername  
-🔗 LinkedIn: (your profile)  
+🔗 GitHub: https://github.com/charan21042005  
+🔗 LinkedIn: https://www.linkedin.com/in/tokachichu-sricharan/
 
 Feel free to open an issue or contribute!
 
