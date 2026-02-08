@@ -10,22 +10,16 @@ The "Rainfall Prediction System" is a machine learning-based project developed b
 - **Comprehensive Analysis**: Utilizes Exploratory Data Analysis (EDA) to derive insights from the 70k+ row dataset.
 
 ## Repository Structure
+```text
 Rainfall-Prediction-System/
-
 ├── data/                                   # Contains usa_rain_prediction_dataset_2024_2025.csv
-
 ├── docs/                                    # Project report and certificates
-
 ├── src/                                     # Source code (preprocessing.py, model_training.py, app.py)
-
 ├── outputs/                                 # Screenshots (web_dashboard.png, powerbi_dashboard.png)
-
 ├── README.md                                # This file
-
 ├── LICENSE                                  # License information
-
 ├── Rainfall_Prediction_Dashboard.pbix       # Power BI dashboard file
-
+```
 
 
 ## Installation
