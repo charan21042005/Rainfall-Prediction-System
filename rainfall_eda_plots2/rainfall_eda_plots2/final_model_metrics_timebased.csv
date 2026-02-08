@@ -1,0 +1,2 @@
+Model,Test Accuracy,Test F1-Score,Mean CV Accuracy,CV Accuracy Std
+"XGBoost (Time-Based, Minimal)",0.9993424657534247,0.9993425238104001,0.9994262295081968,0.00021857923497266562

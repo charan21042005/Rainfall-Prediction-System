@@ -1,0 +1,2 @@
+Model,Validation Accuracy,Validation F1-Score,Holdout Accuracy,Holdout F1-Score,Mean CV Accuracy,CV Accuracy Std
+Decision Tree (Simplified),1.0,1.0,1.0,1.0,1.0,0.0

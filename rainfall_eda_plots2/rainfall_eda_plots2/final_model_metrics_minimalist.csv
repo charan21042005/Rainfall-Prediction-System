@@ -1,0 +1,2 @@
+Model,Validation Accuracy,Validation F1-Score,Test Accuracy,Test F1-Score,Mean CV Accuracy,CV Accuracy Std
+"XGBoost (Minimalist, Regularized)",0.9995896032831737,0.9995895563630007,0.9995212038303694,0.9995212301148438,0.9986320109439124,0.0004103967168262704
